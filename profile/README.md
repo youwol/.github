@@ -2,6 +2,7 @@
 
 # Youwol
 
-Your browser-based open laboratory.
+Your web-based open laboratory
+
 
 [youwol.com](https://www.youwol.com/)
