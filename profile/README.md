@@ -1,4 +1,4 @@
-![Youwol log](logo_name.png)
+![Youwol log](https://raw.githubusercontent.com/youwol/.github/main/profile/logo_name.png)
 
 # Youwol
 
