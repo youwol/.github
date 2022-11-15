@@ -1,4 +1,4 @@
-![Youwol log](profile/logo_name.png)
+![Youwol log](logo_name.png)
 
 # Youwol
 
