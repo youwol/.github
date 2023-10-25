@@ -1,9 +1,3 @@
-
-# Youwol
-
-Your web-based open laboratory
-
-
 # Welcome to the YouWol GitHub Group
 
 ## About Us
