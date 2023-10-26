@@ -90,7 +90,7 @@ git push origin feature-branch
 -  Merge: Once your contribution is approved, it will be merged into the main repository.
 
 ### Code of Conduct
-We have a [Code of Conduct]() that we expect all contributors to follow. 
+We have a [Code of Conduct](https://github.com/youwol/.github/blob/main/profile/CODE_OF_CONDUCT.md) that we expect all contributors to follow. 
 Please review our Code of Conduct before contributing.
 
 
