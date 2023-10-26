@@ -11,7 +11,7 @@ For a broader overview of YouWol, please visit our [WebSite](https://www.youwol.
 At a more detailed level, YouWol transforms web browsers into a functional operating system by:
 *  Enabling seamless and transparent installation of shared libraries and applications on-the-fly.
 This support extends to languages that can transpile or compile to JavaScript or WebAssembly.
-Additional information can be found [here](https://webpm.org).
+Additional information can be found in the [WebPM site](https://webpm.org).
 *  Providing an initial collection of applications and libraries that replicate the familiar user
 experience of a conventional operating system, including features like a desktop and file explorer.
 *  Offering a development environment that streamlines and encourages contributions to the ecosystem. 
@@ -30,15 +30,12 @@ The most foundationnal libraries:
    Redis, and other related aspects.
 -  [cdn-client](https://github.com/youwol/cdn-client):
    A TypeScript library and HTTP client responsible for handling the dynamic installation of 
-   shared libraries directly into web browsers. 
+   shared libraries directly into web browsers from the [WebPM](https://webpm.org) packages manager. 
    It accomplishes this either in the main thread or within web workers.
 -  [http-clients](https://github.com/youwol/http-clients):
    A collection of HTTP clients designed to interact with YouWol's backends.
--  [flux-view](https://github.com/youwol/flux-view):
-   A compact library used for constructing reactive HTML content through reactive programming.
-   Its objectives align with those of solutions such as React and Vue.
 -  [cdn-externals](https://github.com/youwol/cdn-externals): 
-   Packages available in NPM that have been ported to WebPM (the in-browser package manager of YouWol).
+   Packages available in NPM that have been ported to  [WebPM](https://webpm.org) (the in-browser package manager of YouWol).
 -  [cdn-pyodide-loader](https://github.com/youwol/cdn-pyodide-loader): 
    Extension of the cdn-client to load python packages using [Pyodide](https://pyodide.org/en/stable/)
 
@@ -132,19 +129,20 @@ If you have any questions or need assistance, feel free to contact us through em
 
 ## Social Media
 
-- [Twitter Profile](Link to Twitter Profile)
+- [LinkedIn](https://www.linkedin.com/company/youwol/)
 
 ## License
 
-- [MIT](https://github.com/youwol/os-core/blob/main/LICENSE)
+- [MIT](https://spdx.org/licenses/MIT.html)
 
+<!--
 ## Events and News
 
 [Share information about upcoming events, webinars, or conferences related to your organization. Also, link to any blog posts or news articles featuring your projects.]
 
 - [Event Title](Link to Event Details): Date and description of the event.
 - [Blog Post Title](Link to Blog Post): Summary of the blog post.
-
+-->
 
 ![Youwol log](https://raw.githubusercontent.com/youwol/.github/main/profile/logo_name.png)
 
