@@ -1,3 +1,5 @@
+![Youwol log](https://raw.githubusercontent.com/youwol/.github/main/profile/logo_name.png)
+
 # Welcome to the YouWol GitHub Group
 
 ## About Us
@@ -143,6 +145,4 @@ If you have any questions or need assistance, feel free to contact us through em
 - [Event Title](Link to Event Details): Date and description of the event.
 - [Blog Post Title](Link to Blog Post): Summary of the blog post.
 -->
-
-![Youwol log](https://raw.githubusercontent.com/youwol/.github/main/profile/logo_name.png)
 
