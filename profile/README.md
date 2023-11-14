@@ -30,7 +30,7 @@ The most foundationnal libraries:
    This library gathers the essential configurations necessary for deploying YouWol within a 
    Kubernetes cluster. It primarily addresses Kubernetes, Helm charts, Keycloak, ScyllaDB, Minio, 
    Redis, and other related aspects.
--  [cdn-client](https://github.com/youwol/cdn-client):
+-  [webpm-client](https://github.com/youwol/webpm-client):
    A TypeScript library and HTTP client responsible for handling the dynamic installation of 
    shared libraries directly into web browsers from the [WebPM](https://webpm.org) packages manager. 
    It accomplishes this either in the main thread or within web workers.
